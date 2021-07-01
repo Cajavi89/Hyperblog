@@ -1,10 +1,5 @@
 body{
     text-align: center;
-<<<<<<< HEAD
-    font-family: "courier";
-    color: white;
-    background-color: black;
-=======
     font-family: "Arial";
     font-size: 20px;
 }
@@ -32,5 +27,4 @@ body{
 
 #container h1{
     font-size: 40px;
->>>>>>> cabecera
 }
